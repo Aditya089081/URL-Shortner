@@ -1,0 +1,3 @@
+{
+  "Aditya": "https://www.amazon.com/"
+}
